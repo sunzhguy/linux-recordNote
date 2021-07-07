@@ -1,0 +1,11 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2021-07-07T08:39:10Z",
+    "description": "",
+    "image_folder": "vx_images",
+    "name": "sunzhguy工作笔记",
+    "next_node_id": "2",
+    "version": "1",
+    "version_controller": "dummy.vnotex"
+}
